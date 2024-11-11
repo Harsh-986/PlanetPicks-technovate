@@ -1,4 +1,4 @@
-﻿# PlanetPics-technovate
+﻿# PlanetPics-technovate 🌱
 # Eco-Friendly Shopping Recommendations
 
 ## Overview
