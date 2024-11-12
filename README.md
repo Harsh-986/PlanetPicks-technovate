@@ -36,8 +36,47 @@ Before you begin, ensure you have the following installed:
 
 ### Setup
 
-1. Clone the repository:
+1. **Clone the GitHub Repository**  
+   Open your terminal and run the following command to clone your repository:
    ```bash
-   git clone https://github.com/yourusername/eco-friendly-shopping.git
-   cd eco-friendly-shopping
+   git clone https://github.com/Harsh-986/PlanetPicks-technovate.git
+   ```
+   
+2. **Open the Project in VS Code**  
+   Navigate to the project directory and open it in Visual Studio Code:
+   ```bash
+   cd PlanetPicks-technovate
+   code .
+   ```
+   (Note: Make sure `code .` works in your terminal, which may require setting up VS Code in your system's PATH.)
+
+3. **Open the Terminal in VS Code**  
+   Once VS Code is open, you can open the terminal by:
+   - Clicking on **Terminal** in the top menu and selecting **New Terminal**, or
+   - Using the shortcut `Ctrl + `` (backtick)`.
+   
+4. **Run the Python Script**  
+   In the terminal, execute the following command to run the Python backend:
+   ```bash
+   python main.py
+   ```
+   - Ensure you have Python installed and necessary dependencies available.
+   - If you need to set up a virtual environment or install libraries, use:
+     ```bash
+     python -m venv venv
+     source venv/bin/activate   # On MacOS/Linux
+     venv\Scripts\activate      # On Windows
+     pip install -r requirements.txt
+     ```
+
+5. **Open `index1.html` and Go Live**  
+   - Open `index1.html` in VS Code.
+   - Use the **Live Server** extension in VS Code to preview the frontend:
+     1. Right-click on `index1.html` and select **Open with Live Server**.
+     2. If you haven't installed the **Live Server** extension, go to the Extensions view (`Ctrl + Shift + X`), search for "Live Server," and install it.
+
+### Note:
+- The chatbot component you implemented using a Streamlit API will not function as intended in this setup since Streamlit requires a separate web application to run the API. You'll need to rework the chatbot interface to integrate it into your main web application if needed.
+
+Let me know if you need any more guidance on the setup or if there are additional components you'd like help with!
 
