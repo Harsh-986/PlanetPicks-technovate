@@ -1,6 +1,26 @@
 ﻿# PlanetPics-technovate 🌱
 # Eco-Friendly Shopping Recommendations
 
+## Priview 
+
+[![Watch the video](https://img.youtube.com/vi/rakfwRB1-d8/0.jpg)](https://www.youtube.com/watch?v=rakfwRB1-d8)
+
+### Image 1
+![Image 1](https://drive.google.com/uc?export=view&id=1Nmb_ZcW36TSro996MHFLuMauUgR79Bp8)
+
+### Image 2
+![Image 2](https://drive.google.com/uc?export=view&id=1do5pLWGjzdB1rl9KenzzNjaNja2ff1Zi)
+
+### Image 3
+![Image 3](https://drive.google.com/uc?export=view&id=1Qjf188aEH-Wt56UgfUbUN9QOHtauabB0)
+
+### Image 4
+![Image 4](https://drive.google.com/uc?export=view&id=1KO_220wu6A7NACEVL3zn_LDALpkevSiZ)
+
+### Image 5
+![Image 5](https://drive.google.com/uc?export=view&id=180r8t8g5hIrmx8xIwestoPtn2Ib4p_-G)
+
+
 ## Overview
 
 This project provides a personalized and sustainable shopping experience, offering eco-friendly product recommendations based on user preferences. It helps users make informed decisions by providing insights into the environmental impact and ethical sourcing of products. The project includes an AI-powered recommender, an EcoBot assistant for real-time support, and features to track user progress toward more sustainable shopping habits.
