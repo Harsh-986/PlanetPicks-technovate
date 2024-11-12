@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Phantom Troupes</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background-image: url(images/img2_enhanced.png);
+            background-size: cover;  
+            background-attachment: fixed;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        h1 {
+            color: white;
+            width: 100%;
+            text-align: center;
+            padding: 15px 0;
+            margin: 0;
+            background-color: rgba(0, 0, 0, 0.7);
+            position: fixed;
+            top: 0;
+            z-index: 1000;
+        }
+        .card-container {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 100px; /* Add margin to create space for the fixed header */
+        }
+        .card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 15px;
+            width: 400px;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .card img {
+            border-radius: 50%;
+            width: 80px;
+            height: 80px;
+            object-fit: cover;
+            margin-bottom: 10px;
+        }
+        .card h2 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .card a {
+            color: #0077b5;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .card a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Team Phantom Troupes</h1>
+    <div class="card-container">
+        <div class="card">
+            <img src="images/mahesh.jpeg" alt="Mahesh Chauhan">
+            <h2>Mahesh Chauhan</h2>
+            <a href="https://www.linkedin.com/in/mahesh-chauhan-2b13a8282/" target="_blank">LinkedIn</a>
+        </div>
+        <div class="card">
+            <img src="images/jogi.jpeg" alt="Jogendra Suthar">
+            <h2>Jogendra Suthar</h2>
+            <a href="https://www.linkedin.com/in/jogendra-suthar/" target="_blank">LinkedIn</a>
+        </div>
+        <div class="card">
+            <img src="images/yath.jpg" alt="Yatharth Singh">
+            <h2>Yatharth Singh</h2>
+            <a href="https://www.linkedin.com/in/yatharth-singh-0857a6285/" target="_blank">LinkedIn</a>
+        </div>
+        <div class="card">
+            <img src="images/anshu.jpg" alt="Anshu Gupta">
+            <h2>Anshu Gupta</h2>
+            <a href="https://www.linkedin.com/in/anshu-gupta-2a6b44282/" target="_blank">LinkedIn</a>
+        </div>
+        <div class="card">
+            <img src="images/harsh.jpeg" alt="Harsh Yadav">
+            <h2>Harsh Yadav</h2>
+            <a href="https://www.linkedin.com/in/harsh-yadav-314926260/" target="_blank">LinkedIn</a>
+        </div>
+    </div>
+</body>
+</html>
