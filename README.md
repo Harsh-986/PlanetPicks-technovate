@@ -2,8 +2,9 @@
 # Eco-Friendly Shopping Recommendations
 
 ## Priview 
-
+### Watch the Demo Video
 [![Watch the video](https://img.youtube.com/vi/rakfwRB1-d8/0.jpg)](https://www.youtube.com/watch?v=rakfwRB1-d8)
+
 
 ### Image 1
 ![Image 1](https://drive.google.com/uc?export=view&id=1Nmb_ZcW36TSro996MHFLuMauUgR79Bp8)
