@@ -1,7 +1,7 @@
 ﻿# PlanetPics-technovate 🌱
 # Eco-Friendly Shopping Recommendations
 
-## Priview 
+## Preview 
 ### Watch the Demo Video
 [![Watch the video](https://img.youtube.com/vi/rakfwRB1-d8/0.jpg)](https://www.youtube.com/watch?v=rakfwRB1-d8)
 
