@@ -97,7 +97,7 @@ Before you begin, ensure you have the following installed:
      2. If you haven't installed the **Live Server** extension, go to the Extensions view (`Ctrl + Shift + X`), search for "Live Server," and install it.
 
 ### Note:
-- The chatbot component you implemented using a Streamlit API will not function as intended in this setup since Streamlit requires a separate web application to run the API. You'll need to rework the chatbot interface to integrate it into your main web application if needed.
+- The chatbot component I implemented using a Streamlit API will not function as intended in this setup since Streamlit requires a separate web application to run the API. You'll need to rework the chatbot interface to integrate it into your main web application if needed.
 
-Let me know if you need any more guidance on the setup or if there are additional components you'd like help with!
+
 
